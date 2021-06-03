@@ -4,7 +4,7 @@ def clean_nan(df, bad_str):
     
     '''
     clean_nan(df = pd.DataFrame, bad_str = str)
-    funçtio:
+    How to use/ Como utilizar:
     Recebe um DataFrame e um str indesejado dentro do mesmo, e retorna o DataFrame com 0 substituindo o texto e os       dados que são NaN.
     df recebe -> pd.DataFrame
     bad_str -> str
