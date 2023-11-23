@@ -1,2 +1,2 @@
-# PythonLibsTrick
-Guardando boas práticas com bibliotecas em pyhton
+# PythonLibTricks
+Código que ainda vou reutilizar em Python
